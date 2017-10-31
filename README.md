@@ -30,7 +30,7 @@ In a command prompt in your projects folder (wherever that may be) run the follo
 Once finished: 
 
 - In the folder from where you ran the git command, run `cd guidebot` and then run `npm install`
-- Rename or copy `config.js.example` to `config.js`
+- Rename or copy `config.example.js` to `config.js`
 - Edit `config.js` and fill in all the relevant details as indicated in the file's comments.
 
 ## Starting the bot
